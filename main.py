@@ -25,6 +25,7 @@ class Menuer:
                 break
             else:
                 print('Такого пункта нету')
+                print(':(')
 
 
 menuer = Menuer()
