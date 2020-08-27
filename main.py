@@ -19,7 +19,8 @@ class Menuer:
             if choice == '1':
                 print('Магазин. Дарова')
             elif choice == '2':
-                pass
+                print('Заработки...')
+                print('Вы получили 100 грн')
             elif choice == '3':
                 break
             else:
