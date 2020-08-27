@@ -23,7 +23,7 @@ class Menuer:
             elif choice == '3':
                 break
             else:
-                pass
+                print('Такого пункта нету')
 
 
 menuer = Menuer()
