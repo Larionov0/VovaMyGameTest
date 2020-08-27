@@ -17,7 +17,7 @@ class Menuer:
             print('3 - на выход')
             choice = input('Ваш бобер: ')
             if choice == '1':
-                pass
+                print('Магазин. Дарова')
             elif choice == '2':
                 pass
             elif choice == '3':
